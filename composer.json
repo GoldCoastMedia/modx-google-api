@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "google/apiclient": "1.0.*@dev"
+    },
+    "config": {
+        "vendor-dir": "core/components/googleapi/vendor"
+    }
+}
